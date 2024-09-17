@@ -1,5 +1,11 @@
 # 🚀 Welcome to My GitHub Profile!
 
+---
+
+![Coding Animation]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrMmx5MG1kdzNlZGF6bzI1OGthZ2x0cjlvcHppdHhoOWJ2YmhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3dnltbTZlOG95dW5zcXB5dGgwcHJrbzdkZ3ZvOGZjYnA5M2MyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif))
+
+---
+
 > "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death." - M. Syami Hardyana
 
 ---
@@ -59,12 +65,6 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### **Example Animation**
-
-![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrMmx5MG1kdzNlZGF6bzI1OGthZ2x0cjlvcHppdHhoOWJ2YmhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
