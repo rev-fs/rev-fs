@@ -25,7 +25,6 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -40,18 +39,15 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 
 ### **What I’m Working On** 🌱
 
-- 🌐 Building responsive web applications with **React** and **TailwindCSS**
+- 🌐 Building responsive web applications with **React**
 - 🛠️ Crafting backend services with **Node.js** and **Express**
 - 📊 Exploring data visualization and charts
-- 💡 Learning advanced TypeScript and GraphQL
 
 ---
 
 ### **Get In Touch** 📬
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: mochammadsyamihardiana@gmail.com
 
 <!---
 rev-fs/rev-fs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
