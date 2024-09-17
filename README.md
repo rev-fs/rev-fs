@@ -10,7 +10,7 @@
 
 ---
 
-> "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death." - M. Syami Hardyana
+> "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death." - M. Syami Hardyana.
 
 ---
 
@@ -36,8 +36,9 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🗄️ - Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 🌐 - Hosting Services and Web Tools:
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
