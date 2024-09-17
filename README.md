@@ -1,7 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
 
-### **Animation**
-
 ![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3dnltbTZlOG95dW5zcXB5dGgwcHJrbzdkZ3ZvOGZjYnA5M2MyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif)
 
 ---
