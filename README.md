@@ -1,8 +1,14 @@
 # 🚀 Welcome to My GitHub Profile!
 
-### **Example Animation**
+### **Animation**
 
 ![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3dnltbTZlOG95dW5zcXB5dGgwcHJrbzdkZ3ZvOGZjYnA5M2MyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif)
+
+---
+
+### **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rev-fs&show_icons=true&theme=radical)
 
 ---
 
@@ -13,12 +19,6 @@
 ### **About Me**
 
 Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Developer** and **Graphic Designer**. My repos are mostly private 🔐, but here’s a sneak peek at my skills and contributions. Always striving to improve and learn something new every day!
-
----
-
-### **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rev-fs&show_icons=true&theme=radical)
 
 ---
 
