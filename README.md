@@ -8,7 +8,7 @@
 
 ### **About Me**
 
-Hi there! 👋 I'm **[Your Name]**, a passionate **Fullstack Developer** and **Graphic Designer**. My repos are mostly private 🔐, but here’s a sneak peek at my skills and contributions. Always striving to improve and learn something new every day!
+Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Developer** and **Graphic Designer**. My repos are mostly private 🔐, but here’s a sneak peek at my skills and contributions. Always striving to improve and learn something new every day!
 
 ---
 
@@ -17,7 +17,7 @@ Hi there! 👋 I'm **[Your Name]**, a passionate **Fullstack Developer** and **G
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 - **Total Stars Earned**: 27  
-- **Total Commits (2024)**: 3  
+- **Total Commits (2024)**: 143  
 - **Total PRs**: 0  
 - **Total Issues**: 0  
 - **Contributed to (last year)**: 0  
