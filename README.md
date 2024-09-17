@@ -14,13 +14,7 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 
 ### **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syamrxa&show_icons=true&theme=radical)
-
-- **Total Stars Earned**: 27  
-- **Total Commits (2024)**: 143  
-- **Total PRs**: 0  
-- **Total Issues**: 0  
-- **Contributed to (last year)**: 0  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rev-fs&show_icons=true&theme=radical)
 
 ---
 
