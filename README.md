@@ -1,8 +1,8 @@
 # 🚀 Welcome to My GitHub Profile!
 
----
+### **Example Animation**
 
-![Coding Animation]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrMmx5MG1kdzNlZGF6bzI1OGthZ2x0cjlvcHppdHhoOWJ2YmhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3dnltbTZlOG95dW5zcXB5dGgwcHJrbzdkZ3ZvOGZjYnA5M2MyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif))
+![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN3dnltbTZlOG95dW5zcXB5dGgwcHJrbzdkZ3ZvOGZjYnA5M2MyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif)
 
 ---
 
@@ -35,6 +35,7 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 ## 🧑‍💻 - Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🗄️ - Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,6 +56,8 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🛠️ - IDEs and Tools:
