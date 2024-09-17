@@ -1,8 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Profile Banner](https://your-profile-banner-link.com)
-
-> "Great things are not done by impulse, but by a series of small things brought together." - Vincent Van Gogh
+> "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death." - M. Syami Hardyana
 
 ---
 
@@ -20,20 +18,53 @@ Hi there! 👋 I'm **Mochamad Syami Hardyana**, a passionate **Fullstack Develop
 
 ### **Languages & Tools** 🛠️
 
-**Frontend:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+## 🖥️ - Frontend:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+## 🧑‍💻 - Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+## 🗄️ - Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🌐 - Hosting Services and Web Tools:
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🛠️ - DevOps:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🧰 - Others:
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🛠️ - IDEs and Tools:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### **Example Animation**
+
+![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNrMmx5MG1kdzNlZGF6bzI1OGthZ2x0cjlvcHppdHhoOWJ2YmhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
